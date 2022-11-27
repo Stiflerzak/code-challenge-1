@@ -2,7 +2,7 @@
 
 
 # Description
-This is inclusive of a  student grading miniproject, speed detector.
+This is inclusive of a  student grading miniproject, speed detector and net salary calculator.
 
 
 # Getting Started
@@ -10,7 +10,7 @@ In order for you to use the content on this repo ensure you have the following:
 
 - A computer that runs on either of the following; (Windows 7+, Linux, Mac OS)
 - nodejs 9.0+
-- 
+
 
 ## Installation
 
