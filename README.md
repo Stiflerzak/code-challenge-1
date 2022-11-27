@@ -2,7 +2,7 @@
 
 
 # Description
-This is a grading miniproject.
+This is inclusive of a  student grading miniproject, speed detector.
 
 
 # Getting Started
@@ -16,7 +16,7 @@ In order for you to use the content on this repo ensure you have the following:
 
 To use this repo on your machine requires some simple steps
 
-### Alternative One
+
 
 - Open a terminal / command line interface on your computer
 - Clone the repo by using the following:
