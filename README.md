@@ -12,7 +12,7 @@ In order for you to use the content on this repo ensure you have the following:
 - nodejs 9.0+
 
 
-## Installation
+## Installation and setup
 
 To use this repo on your machine requires some simple steps
 
@@ -23,7 +23,7 @@ To use this repo on your machine requires some simple steps
 
         git clone git@github.com:Stiflerzak/code-challenge-1.git
 
-
+- open the cli terminal and type the name of the .js 
 
 
 # Authors
