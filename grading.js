@@ -29,7 +29,8 @@ function Grade_generator(score) {
   
   //prompts the user to enter marks scored
   let score = prompt("Enter your Score");
-  
+  let grade= Grade_generator(score)
+  alert(`You grade: ${grade}`);
   
   //print out the grade 
   console.log(Grade_generator(score));
