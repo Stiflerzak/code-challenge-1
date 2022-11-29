@@ -32,7 +32,7 @@ To use this repo on your machine requires some simple steps
         git clone git@github.com:Stiflerzak/code-challenge-1.git
 
 -Vscode is recommended for best experience.
--This project runs on the browser. One should install live server extention. 
+-This project runs on the browser. One should install live server extension. 
 
 
 # Authors
